@@ -35,7 +35,7 @@
 
 ```bash
 # 1. 克隆仓库
-git clone [https://github.com/你的用户名/你的仓库名.git](https://github.com/你的用户名/你的仓库名.git)
+git clone [https://github.com/yeahuichan/webdav-winUI.git]
 cd 你的仓库名
 
 # 2. 安装前端依赖
